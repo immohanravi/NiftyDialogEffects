@@ -1,7 +1,7 @@
 NiftyDialogEffects
 ==================
 NiftyDialogEffects is deprecated
-
+# copy of [https://github.com/sd6352051/NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects)
 Nifty Modal Dialog Effects look like this([Nifty Modal Window Effects][1])
 
 [![Android Arsenal](http://img.shields.io/badge/%20%20%20Android%20Arsenal%20%20%20-%20%20%20NiftyDialogEffects%20%20%20-blue.svg)](http://android-arsenal.com/details/1/772)
